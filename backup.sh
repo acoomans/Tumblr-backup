@@ -1,4 +1,4 @@
-BLOGS="blog.acoomans.com myotherblog.tumblr.com"
+BLOGS="blog.acoomans.com mobilecraft.tumblr.com iterativity.tumblr.com jswalk.tumblr.com thousandslittletheories.tumblr.com http://inductivebias.tumblr.com/"
 
 DESTDIR=`date +%Y%m%d`
 mkdir -p $DESTDIR
